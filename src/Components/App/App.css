@@ -1,0 +1,13 @@
+* {
+	text-align: center;
+}
+
+.customContainer {
+	display: flex;
+    justify-content: center;
+}
+
+.searchAndStatus {
+	display: flex;
+    justify-content: center;
+}

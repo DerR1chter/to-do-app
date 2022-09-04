@@ -1,0 +1,14 @@
+.icons {
+	display: flex;
+    justify-content: flex-end;
+}
+
+.tasks {
+	display: flex;
+    justify-content: flex-start;
+	cursor: pointer;
+}
+
+.badge {
+	cursor: pointer;
+}

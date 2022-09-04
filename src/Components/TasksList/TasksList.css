@@ -1,0 +1,9 @@
+.taskList {
+	display: flex;
+    justify-content: center;
+	margin-bottom: 10px;
+}
+
+.list-group {
+	width: 390px;
+}
